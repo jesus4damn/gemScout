@@ -1,0 +1,10 @@
+export declare const AUTH = "AUTH";
+export declare const BASE_GET_REQUEST = "BASE_GET_REQUEST";
+export declare const FILTER_LIST = "FILTER_LIST";
+export declare const BASE_POST_REQUEST = "BASE_POST_REQUEST";
+export declare const BASE_PUT_REQUEST = "BASE_PUT_REQUEST";
+export declare const UPDATE_USER_SETTINGS_SAGA = "UPDATE_USER_SETTINGS_SAGA";
+export declare const BASE_DELETE_REQUEST = "BASE_DELETE_REQUEST";
+export declare const UPDATE_USER_DATA_SAGA = "UPDATE_USER_DATA_SAGA";
+export declare const BLOCK_USER_REQUEST = "BLOCK_USER_REQUEST";
+export declare const BASE_GET_REQUEST_USERS = "BASE_GET_REQUEST_USERS";

@@ -1,0 +1,42 @@
+@import '~normalize.css';
+@import 'roboto.css';
+
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  background: #F2F4F8;
+  font-family: "Proxima Nova" , sans-serif !important;
+}
+
+html {
+  font-size: 14px;
+  color: #1B1D28;
+}
+
+button:focus, button:active,
+input:hover, input:focus,
+select:hover, select:focus,
+a[role="button"]:focus, a[role="button"]:active
+{
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+input::-webkit-outer-spin-button, input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+//input[readonly]:focus, input[readonly]:active {
+//  border: 1px solid #ced4da;
+//}
+
+a, a:focus, a:active {
+  text-decoration: none !important;
+  color: #1B1D28;
+}

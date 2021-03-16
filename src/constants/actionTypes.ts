@@ -1,0 +1,47 @@
+export const VERIFY_SUCCESS = 'LOGIN_SUCCESS';
+
+export const LOGOUT = 'LOGOUT';
+
+export const CHANGE_AUTH_STEP = 'CHANGE_AUTH_STEP';
+
+export const GET_SYSTEM_INFO = 'GET_SYSTEM_INFO';
+
+export const OPEN_MODAL = 'OPEN_MODAL';
+
+export const CLOSE_MODAL = 'CLOSE_MODAL';
+
+export const GET_ALL_USERS_LIST = 'GET_ALL_USERS_LIST';
+
+export const GET_ALL_USERS_LIST_ADD = 'GET_ALL_USERS_LIST_ADD';
+
+export const GET_NEW_USERS_LIST = 'GET_NEW_USERS_LIST';
+
+export const GET_NEW_USERS_LIST_ADD = 'GET_NEW_USERS_LIST_ADD';
+
+export const FILTER_ALL_USERS_LIST = 'FILTER_ALL_USERS_LIST';
+
+export const BLOCK_USER = 'BLOCK_USER';
+
+export const GET_GEMSTONES_LIST = 'GET_GEMSTONES_LIST';
+
+export const GET_SHAPES_LIST = 'GET_SHAPES_LIST';
+
+export const CHANGE_SHAPES_ORDER = 'CHANGE_SHAPES_ORDER';
+
+export const ADD_SHAPE = 'ADD_SHAPE';
+
+export const DELETE_SHAPE = 'DELETE_SHAPE';
+
+export const ADD_GEMSTONE = 'ADD_GEMSTONE';
+
+export const DELETE_GEMSTONE = 'DELETE_GEMSTONE';
+
+export const UPDATE_GEMSTONE = 'UPDATE_GEMSTONE';
+
+export const UPDATE_USER_SETTINGS = 'UPDATE_USER_SETTINGS';
+
+export const UPDATE_USER_DATA = 'UPDATE_USER_DATA';
+
+export const SET_SUBSCRIBE = 'SET_SUBSCRIBE';
+
+export const SET_SEND_MESSAGE = 'SET_SEND_MESSAGE';
